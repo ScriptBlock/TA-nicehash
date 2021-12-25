@@ -1,0 +1,24 @@
+{
+    "info": {
+        "author": [
+            {
+                "name": "Nick Zambo"
+            }
+        ],
+        "description": "Nicehash Add-On for Splunk",
+        "id": {
+            "name": "TA-nicehash",
+            "version": "0.1.0"
+        },
+        "title": "Nicehash Add-On for Splunk"
+    },
+    "schemaVersion": "2.0.0",
+    "supportedDeployments": [
+        "_standalone",
+        "_distributed"
+    ],
+    "targetWorkloads": [
+        "_search_heads",
+        "_indexers"
+    ]
+}
